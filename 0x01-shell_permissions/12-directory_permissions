@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'incorrect'
+mkdir -m751 my_dir
